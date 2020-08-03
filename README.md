@@ -1,13 +1,13 @@
-👋 <strong> Hello world! </strong>
+👋 <h2> Hello world! </h2>
 
-I'm Nancy
+<h3>I'm Nancy</h3>
 
-GLOBAL AMBASSADOR AT WOMENTECH NETWORK | B.TECH IT STUDENT AT AMITY UNIVERSITY, NOIDA | TECH SAVVY
+<strong> GLOBAL AMBASSADOR AT WOMENTECH NETWORK | B.TECH IT STUDENT AT AMITY UNIVERSITY, NOIDA | TECH SAVVY </strong>
 
-✨ About Me
+✨<h2> About Me </h2>
 
-Highly motivated and hardworking student currently pursuing B.Tech IT, with the knowledge in the area of machine learning, cloud foundations and web development.
+<strong> Highly motivated and hardworking student currently pursuing B.Tech IT, with the knowledge in the area of machine learning, cloud foundations and web development.
 
-Always passionate about challenging assignments and projects in a dynamic and respected organization for constant leaning and to enhance skills which help me to reach for higher levels of competence and achievement.
+Always passionate about challenging assignments and projects in a dynamic and respected organization for constant leaning and to enhance skills which help me to reach for higher levels of competence and achievement. </strong>
 
 
