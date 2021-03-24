@@ -10,6 +10,6 @@
 
 Always passionate about challenging assignments and projects in a dynamic and respected organization for constant learning and to enhance skills which help me to reach for higher levels of competence and achievement. </strong>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" <img/>
 
 
