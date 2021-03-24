@@ -2,9 +2,9 @@
 
 <h3>I'm Nancy</h3>
 
-<img align="left" alt="I am glad u came to visit" src="https://media.giphy.com/media/kHfQnSUzDX9EpViYEw/giphy.gif" width="290">
+<img align="top" alt="I am glad u came to visit" src="https://media.giphy.com/media/kHfQnSUzDX9EpViYEw/giphy.gif" width="290">
 
-<strong> GLOBAL AMBASSADOR AT WOMENTECH NETWORK | B.TECH IT STUDENT AT AMITY UNIVERSITY, NOIDA | TECH SAVVY </strong>
+<strong> Microsoft Student Learn Ambassador| B.TECH IT STUDENT AT AMITY UNIVERSITY, NOIDA | TECH SAVVY </strong>
 <img align="right" alt="I am glad u came to visit" src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="290">
 
 
